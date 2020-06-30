@@ -61,7 +61,15 @@
      <Compile Include="Assets\CatPlayer.cs" />
      <Compile Include="Assets\GameManager.cs" />
      <Compile Include="Assets\PlayerContorller.cs" />
+     <Compile Include="Assets\SD Unity-Chan Haon Custom\Unity-Chan!\Script\RandomWind.cs" />
+     <Compile Include="Assets\SD Unity-Chan Haon Custom\Unity-Chan!\Script\SpringBone.cs" />
+     <Compile Include="Assets\SD Unity-Chan Haon Custom\Unity-Chan!\Script\SpringCollider.cs" />
+     <Compile Include="Assets\SD Unity-Chan Haon Custom\Unity-Chan!\Script\SpringManager.cs" />
      <Compile Include="Assets\bullet.cs" />
+     <None Include="Assets\Toby Fredson\Rocky Hills Environment - Light Pack\Legacy Project\Legacy Project_Read Me!.txt" />
+     <None Include="Assets\SD Unity-Chan Haon Custom\Shader\readme.txt" />
+     <None Include="Assets\SD Unity-Chan Haon Custom\Shader\Unitychan_chara_eye.shader" />
+     <None Include="Assets\SD Unity-Chan Haon Custom\_Readme\Readme SD Unity-Chan Haon Custom Series.txt" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/user/Documents/GitHub/BulletGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
